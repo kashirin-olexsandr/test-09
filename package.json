@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-hm-09",
+  "name": "test-09",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hm-09/",
+    "build": "vite build --base=/test-09/",
     "preview": "vite preview"
   },
   "devDependencies": {
